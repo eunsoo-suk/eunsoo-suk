@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eunsoo, Suk</h1>
-<h3 align="center">A passionate data scientist.</h3>
+<h3 align="center">A passionate data scientist with safety eng. background.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2h-DeyRUJFsAAAAC/deep-x-safety-compliance-ai.gif">
 
 - 🔭 I’m currently working on [Shake-table Tests of Seven-story](https://www.designsafe-ci.org/data/browser/public/designsafe.storage.published/PRJ-1903)
