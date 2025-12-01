@@ -2,7 +2,7 @@
 <h3 align="center">A passionate data scientist with safety eng. background.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2h-DeyRUJFsAAAAC/deep-x-safety-compliance-ai.gif">
 
-- 💬 Ask me about **machine learning, deep learning, computer vision**
+- 💬 Ask me about **ML, Deep Learning, Computer Vision**
 
 - 📫 How to reach me **sukjoshua0515@gmail.com**
 
