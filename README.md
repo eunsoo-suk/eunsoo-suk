@@ -2,16 +2,28 @@
 <h3 align="center">A passionate data scientist with safety eng. background.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2h-DeyRUJFsAAAAC/deep-x-safety-compliance-ai.gif">
 
-- 🔭 I’m currently working on [Shake-table Tests of Seven-story](https://www.designsafe-ci.org/data/browser/public/designsafe.storage.published/PRJ-1903)
-
-- 💬 Ask me about **machine learning, computer vision**
+- 💬 Ask me about **machine learning, deep learning, computer vision**
 
 - 📫 How to reach me **sukjoshua0515@gmail.com**
 
+<h3 align="left">Recent Project</h3>
+<ul>
+  <li><b>AI-driven Occupational Fatality Forecasting (BLS CFOI, 2014–2023)</b><br>
+      Developed a full analytics and forecasting pipeline using 10 years of U.S. occupational fatality data.
+      Includes industry clustering, accident-type trend forecasting, Holt’s Linear Trend models, multivariate 
+      analysis, and interactive dashboards.<br>
+      📄 <a href="https://eunsoo-suk.github.io/MSML602-Final-Project/" target="_blank">
+      View Final Project</a>
+  </li>
+</ul>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/eunsoosuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eunsoosuk" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/eunsoosuk" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eunsoosuk" height="30" width="40" />
+</a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
