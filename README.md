@@ -13,7 +13,7 @@
       Includes industry clustering, accident-type trend forecasting, Holt’s Linear Trend models, multivariate 
       analysis, and interactive dashboards.<br>
       📄 <a href="https://eunsoo-suk.github.io/" target="_blank">
-      View Final Project</a>
+      View Project</a>
   </li>
 </ul>
 
