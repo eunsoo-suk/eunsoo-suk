@@ -12,7 +12,7 @@
       Developed a full analytics and forecasting pipeline using 10 years of U.S. occupational fatality data.
       Includes industry clustering, accident-type trend forecasting, Holt’s Linear Trend models, multivariate 
       analysis, and interactive dashboards.<br>
-      📄 <a href="https://eunsoo-suk.github.io/MSML602-Final-Project/" target="_blank">
+      📄 <a href="https://eunsoo-suk.github.io/" target="_blank">
       View Final Project</a>
   </li>
 </ul>
