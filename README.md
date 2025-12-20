@@ -8,14 +8,18 @@
 
 <h3 align="left">Recent Project</h3>
 <ul>
-  <li><b>AI-driven Occupational Fatality Forecasting (2014–2023)</b><br>
-      Developed a full analytics and forecasting pipeline using 10 years of U.S. occupational fatality data.
-      Includes industry clustering, accident-type trend forecasting, Holt’s Linear Trend models, multivariate 
-      analysis, and interactive dashboards.<br>
-      📄 <a href="https://eunsoo-suk.github.io/" target="_blank">
-      View Project</a>
+  <li>
+    <b>AI-driven Occupational Fatality Forecasting (2014–2023)</b><br>
+    Developed a full analytics and forecasting pipeline using 10 years of U.S. occupational fatality data.
+    Includes industry clustering, accident-type trend forecasting, Holt’s Linear Trend models, multivariate 
+    analysis, and interactive dashboards.<br>
+        <a href="https://eunsoo-suk.github.io/Occupational_Fatalities_Analysis/" target="_blank">
+      Project Website</a> |
+        <a href="https://github.com/eunsoo-suk/Occupational_Fatalities_Analysis" target="_blank">
+      GitHub Repository</a>
   </li>
 </ul>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
